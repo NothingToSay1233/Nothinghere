@@ -1,17 +1,1 @@
-- Crash
-- RP & Money Loop player option
-- Business managments
-- New money managments
-- New ball ammo crash protection
-- Stop traffic protection
-- Fixed pointers
-- Fixed gift vehicles
-- Fixed other stuff
-- Fixed memory leak
-- Improved vehicle spawner
-- New menu
-- Improved lua scripts
-- Improved widgets
-- Improved menu layout
-- Added menu effects
-- Added tp effect setting
+- Maybe gift car fixed
